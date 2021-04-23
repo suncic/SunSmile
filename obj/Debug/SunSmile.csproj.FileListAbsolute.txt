@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Sunčica Babić\OOP\Stomatoloska ordinacija\SunSmile\bin\Debug\SunSmile.exe.config
+C:\Users\User\Desktop\Sunčica Babić\OOP\Stomatoloska ordinacija\SunSmile\bin\Debug\SunSmile.exe
+C:\Users\User\Desktop\Sunčica Babić\OOP\Stomatoloska ordinacija\SunSmile\bin\Debug\SunSmile.pdb
+C:\Users\User\Desktop\Sunčica Babić\OOP\Stomatoloska ordinacija\SunSmile\obj\Debug\SunSmile.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Sunčica Babić\OOP\Stomatoloska ordinacija\SunSmile\obj\Debug\SunSmile.f1.resources
+C:\Users\User\Desktop\Sunčica Babić\OOP\Stomatoloska ordinacija\SunSmile\obj\Debug\SunSmile.Properties.Resources.resources
+C:\Users\User\Desktop\Sunčica Babić\OOP\Stomatoloska ordinacija\SunSmile\obj\Debug\SunSmile.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Sunčica Babić\OOP\Stomatoloska ordinacija\SunSmile\obj\Debug\SunSmile.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Sunčica Babić\OOP\Stomatoloska ordinacija\SunSmile\obj\Debug\SunSmile.exe
+C:\Users\User\Desktop\Sunčica Babić\OOP\Stomatoloska ordinacija\SunSmile\obj\Debug\SunSmile.pdb
